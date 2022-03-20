@@ -1,0 +1,609 @@
+n #SUP: 1
+c n #SUP: 1
+f n #SUP: 1
+c f n #SUP: 1
+a n #SUP: 1
+a c n #SUP: 1
+a f n #SUP: 1
+a c f n #SUP: 1
+m n #SUP: 1
+c m n #SUP: 1
+f m n #SUP: 1
+c f m n #SUP: 1
+a m n #SUP: 1
+a c m n #SUP: 1
+a f m n #SUP: 1
+a c f m n #SUP: 1
+n p #SUP: 1
+c n p #SUP: 1
+f n p #SUP: 1
+c f n p #SUP: 1
+a n p #SUP: 1
+a c n p #SUP: 1
+a f n p #SUP: 1
+a c f n p #SUP: 1
+m n p #SUP: 1
+c m n p #SUP: 1
+f m n p #SUP: 1
+c f m n p #SUP: 1
+a m n p #SUP: 1
+a c m n p #SUP: 1
+a f m n p #SUP: 1
+a c f m n p #SUP: 1
+l n #SUP: 1
+c l n #SUP: 1
+f l n #SUP: 1
+c f l n #SUP: 1
+a l n #SUP: 1
+a c l n #SUP: 1
+a f l n #SUP: 1
+a c f l n #SUP: 1
+l m n #SUP: 1
+c l m n #SUP: 1
+f l m n #SUP: 1
+c f l m n #SUP: 1
+a l m n #SUP: 1
+a c l m n #SUP: 1
+a f l m n #SUP: 1
+a c f l m n #SUP: 1
+l n p #SUP: 1
+c l n p #SUP: 1
+f l n p #SUP: 1
+c f l n p #SUP: 1
+a l n p #SUP: 1
+a c l n p #SUP: 1
+a f l n p #SUP: 1
+a c f l n p #SUP: 1
+l m n p #SUP: 1
+c l m n p #SUP: 1
+f l m n p #SUP: 1
+c f l m n p #SUP: 1
+a l m n p #SUP: 1
+a c l m n p #SUP: 1
+a f l m n p #SUP: 1
+a c f l m n p #SUP: 1
+e n #SUP: 1
+c e n #SUP: 1
+e f n #SUP: 1
+c e f n #SUP: 1
+a e n #SUP: 1
+a c e n #SUP: 1
+a e f n #SUP: 1
+a c e f n #SUP: 1
+e m n #SUP: 1
+c e m n #SUP: 1
+e f m n #SUP: 1
+c e f m n #SUP: 1
+a e m n #SUP: 1
+a c e m n #SUP: 1
+a e f m n #SUP: 1
+a c e f m n #SUP: 1
+e n p #SUP: 1
+c e n p #SUP: 1
+e f n p #SUP: 1
+c e f n p #SUP: 1
+a e n p #SUP: 1
+a c e n p #SUP: 1
+a e f n p #SUP: 1
+a c e f n p #SUP: 1
+e m n p #SUP: 1
+c e m n p #SUP: 1
+e f m n p #SUP: 1
+c e f m n p #SUP: 1
+a e m n p #SUP: 1
+a c e m n p #SUP: 1
+a e f m n p #SUP: 1
+a c e f m n p #SUP: 1
+e l n #SUP: 1
+c e l n #SUP: 1
+e f l n #SUP: 1
+c e f l n #SUP: 1
+a e l n #SUP: 1
+a c e l n #SUP: 1
+a e f l n #SUP: 1
+a c e f l n #SUP: 1
+e l m n #SUP: 1
+c e l m n #SUP: 1
+e f l m n #SUP: 1
+c e f l m n #SUP: 1
+a e l m n #SUP: 1
+a c e l m n #SUP: 1
+a e f l m n #SUP: 1
+a c e f l m n #SUP: 1
+e l n p #SUP: 1
+c e l n p #SUP: 1
+e f l n p #SUP: 1
+c e f l n p #SUP: 1
+a e l n p #SUP: 1
+a c e l n p #SUP: 1
+a e f l n p #SUP: 1
+a c e f l n p #SUP: 1
+e l m n p #SUP: 1
+c e l m n p #SUP: 1
+e f l m n p #SUP: 1
+c e f l m n p #SUP: 1
+a e l m n p #SUP: 1
+a c e l m n p #SUP: 1
+a e f l m n p #SUP: 1
+a c e f l m n p #SUP: 1
+k #SUP: 1
+c k #SUP: 1
+b k #SUP: 1
+b c k #SUP: 1
+k p #SUP: 1
+c k p #SUP: 1
+b k p #SUP: 1
+b c k p #SUP: 1
+j #SUP: 1
+f j #SUP: 1
+b j #SUP: 1
+b f j #SUP: 1
+j o #SUP: 1
+f j o #SUP: 1
+b j o #SUP: 1
+b f j o #SUP: 1
+h j #SUP: 1
+f h j #SUP: 1
+b h j #SUP: 1
+b f h j #SUP: 1
+h j o #SUP: 1
+f h j o #SUP: 1
+b h j o #SUP: 1
+b f h j o #SUP: 1
+i #SUP: 1
+c i #SUP: 1
+f i #SUP: 1
+c f i #SUP: 1
+a i #SUP: 1
+a c i #SUP: 1
+a f i #SUP: 1
+a c f i #SUP: 1
+i m #SUP: 1
+c i m #SUP: 1
+f i m #SUP: 1
+c f i m #SUP: 1
+a i m #SUP: 1
+a c i m #SUP: 1
+a f i m #SUP: 1
+a c f i m #SUP: 1
+i p #SUP: 1
+c i p #SUP: 1
+f i p #SUP: 1
+c f i p #SUP: 1
+a i p #SUP: 1
+a c i p #SUP: 1
+a f i p #SUP: 1
+a c f i p #SUP: 1
+i m p #SUP: 1
+c i m p #SUP: 1
+f i m p #SUP: 1
+c f i m p #SUP: 1
+a i m p #SUP: 1
+a c i m p #SUP: 1
+a f i m p #SUP: 1
+a c f i m p #SUP: 1
+d i #SUP: 1
+c d i #SUP: 1
+d f i #SUP: 1
+c d f i #SUP: 1
+a d i #SUP: 1
+a c d i #SUP: 1
+a d f i #SUP: 1
+a c d f i #SUP: 1
+d i m #SUP: 1
+c d i m #SUP: 1
+d f i m #SUP: 1
+c d f i m #SUP: 1
+a d i m #SUP: 1
+a c d i m #SUP: 1
+a d f i m #SUP: 1
+a c d f i m #SUP: 1
+d i p #SUP: 1
+c d i p #SUP: 1
+d f i p #SUP: 1
+c d f i p #SUP: 1
+a d i p #SUP: 1
+a c d i p #SUP: 1
+a d f i p #SUP: 1
+a c d f i p #SUP: 1
+d i m p #SUP: 1
+c d i m p #SUP: 1
+d f i m p #SUP: 1
+c d f i m p #SUP: 1
+a d i m p #SUP: 1
+a c d i m p #SUP: 1
+a d f i m p #SUP: 1
+a c d f i m p #SUP: 1
+g i #SUP: 1
+c g i #SUP: 1
+f g i #SUP: 1
+c f g i #SUP: 1
+a g i #SUP: 1
+a c g i #SUP: 1
+a f g i #SUP: 1
+a c f g i #SUP: 1
+g i m #SUP: 1
+c g i m #SUP: 1
+f g i m #SUP: 1
+c f g i m #SUP: 1
+a g i m #SUP: 1
+a c g i m #SUP: 1
+a f g i m #SUP: 1
+a c f g i m #SUP: 1
+g i p #SUP: 1
+c g i p #SUP: 1
+f g i p #SUP: 1
+c f g i p #SUP: 1
+a g i p #SUP: 1
+a c g i p #SUP: 1
+a f g i p #SUP: 1
+a c f g i p #SUP: 1
+g i m p #SUP: 1
+c g i m p #SUP: 1
+f g i m p #SUP: 1
+c f g i m p #SUP: 1
+a g i m p #SUP: 1
+a c g i m p #SUP: 1
+a f g i m p #SUP: 1
+a c f g i m p #SUP: 1
+d g i #SUP: 1
+c d g i #SUP: 1
+d f g i #SUP: 1
+c d f g i #SUP: 1
+a d g i #SUP: 1
+a c d g i #SUP: 1
+a d f g i #SUP: 1
+a c d f g i #SUP: 1
+d g i m #SUP: 1
+c d g i m #SUP: 1
+d f g i m #SUP: 1
+c d f g i m #SUP: 1
+a d g i m #SUP: 1
+a c d g i m #SUP: 1
+a d f g i m #SUP: 1
+a c d f g i m #SUP: 1
+d g i p #SUP: 1
+c d g i p #SUP: 1
+d f g i p #SUP: 1
+c d f g i p #SUP: 1
+a d g i p #SUP: 1
+a c d g i p #SUP: 1
+a d f g i p #SUP: 1
+a c d f g i p #SUP: 1
+d g i m p #SUP: 1
+c d g i m p #SUP: 1
+d f g i m p #SUP: 1
+c d f g i m p #SUP: 1
+a d g i m p #SUP: 1
+a c d g i m p #SUP: 1
+a d f g i m p #SUP: 1
+a c d f g i m p #SUP: 1
+h #SUP: 1
+f h #SUP: 1
+b h #SUP: 1
+b f h #SUP: 1
+h o #SUP: 1
+f h o #SUP: 1
+b h o #SUP: 1
+b f h o #SUP: 1
+g #SUP: 1
+c g #SUP: 1
+f g #SUP: 1
+c f g #SUP: 1
+a g #SUP: 1
+a c g #SUP: 1
+a f g #SUP: 1
+a c f g #SUP: 1
+g m #SUP: 1
+c g m #SUP: 1
+f g m #SUP: 1
+c f g m #SUP: 1
+a g m #SUP: 1
+a c g m #SUP: 1
+a f g m #SUP: 1
+a c f g m #SUP: 1
+g p #SUP: 1
+c g p #SUP: 1
+f g p #SUP: 1
+c f g p #SUP: 1
+a g p #SUP: 1
+a c g p #SUP: 1
+a f g p #SUP: 1
+a c f g p #SUP: 1
+g m p #SUP: 1
+c g m p #SUP: 1
+f g m p #SUP: 1
+c f g m p #SUP: 1
+a g m p #SUP: 1
+a c g m p #SUP: 1
+a f g m p #SUP: 1
+a c f g m p #SUP: 1
+d g #SUP: 1
+c d g #SUP: 1
+d f g #SUP: 1
+c d f g #SUP: 1
+a d g #SUP: 1
+a c d g #SUP: 1
+a d f g #SUP: 1
+a c d f g #SUP: 1
+d g m #SUP: 1
+c d g m #SUP: 1
+d f g m #SUP: 1
+c d f g m #SUP: 1
+a d g m #SUP: 1
+a c d g m #SUP: 1
+a d f g m #SUP: 1
+a c d f g m #SUP: 1
+d g p #SUP: 1
+c d g p #SUP: 1
+d f g p #SUP: 1
+c d f g p #SUP: 1
+a d g p #SUP: 1
+a c d g p #SUP: 1
+a d f g p #SUP: 1
+a c d f g p #SUP: 1
+d g m p #SUP: 1
+c d g m p #SUP: 1
+d f g m p #SUP: 1
+c d f g m p #SUP: 1
+a d g m p #SUP: 1
+a c d g m p #SUP: 1
+a d f g m p #SUP: 1
+a c d f g m p #SUP: 1
+e #SUP: 1
+c e #SUP: 1
+e f #SUP: 1
+c e f #SUP: 1
+a e #SUP: 1
+a c e #SUP: 1
+a e f #SUP: 1
+a c e f #SUP: 1
+e m #SUP: 1
+c e m #SUP: 1
+e f m #SUP: 1
+c e f m #SUP: 1
+a e m #SUP: 1
+a c e m #SUP: 1
+a e f m #SUP: 1
+a c e f m #SUP: 1
+e p #SUP: 1
+c e p #SUP: 1
+e f p #SUP: 1
+c e f p #SUP: 1
+a e p #SUP: 1
+a c e p #SUP: 1
+a e f p #SUP: 1
+a c e f p #SUP: 1
+e m p #SUP: 1
+c e m p #SUP: 1
+e f m p #SUP: 1
+c e f m p #SUP: 1
+a e m p #SUP: 1
+a c e m p #SUP: 1
+a e f m p #SUP: 1
+a c e f m p #SUP: 1
+e l #SUP: 1
+c e l #SUP: 1
+e f l #SUP: 1
+c e f l #SUP: 1
+a e l #SUP: 1
+a c e l #SUP: 1
+a e f l #SUP: 1
+a c e f l #SUP: 1
+e l m #SUP: 1
+c e l m #SUP: 1
+e f l m #SUP: 1
+c e f l m #SUP: 1
+a e l m #SUP: 1
+a c e l m #SUP: 1
+a e f l m #SUP: 1
+a c e f l m #SUP: 1
+e l p #SUP: 1
+c e l p #SUP: 1
+e f l p #SUP: 1
+c e f l p #SUP: 1
+a e l p #SUP: 1
+a c e l p #SUP: 1
+a e f l p #SUP: 1
+a c e f l p #SUP: 1
+e l m p #SUP: 1
+c e l m p #SUP: 1
+e f l m p #SUP: 1
+c e f l m p #SUP: 1
+a e l m p #SUP: 1
+a c e l m p #SUP: 1
+a e f l m p #SUP: 1
+a c e f l m p #SUP: 1
+d #SUP: 1
+c d #SUP: 1
+d f #SUP: 1
+c d f #SUP: 1
+a d #SUP: 1
+a c d #SUP: 1
+a d f #SUP: 1
+a c d f #SUP: 1
+d m #SUP: 1
+c d m #SUP: 1
+d f m #SUP: 1
+c d f m #SUP: 1
+a d m #SUP: 1
+a c d m #SUP: 1
+a d f m #SUP: 1
+a c d f m #SUP: 1
+d p #SUP: 1
+c d p #SUP: 1
+d f p #SUP: 1
+c d f p #SUP: 1
+a d p #SUP: 1
+a c d p #SUP: 1
+a d f p #SUP: 1
+a c d f p #SUP: 1
+d m p #SUP: 1
+c d m p #SUP: 1
+d f m p #SUP: 1
+c d f m p #SUP: 1
+a d m p #SUP: 1
+a c d m p #SUP: 1
+a d f m p #SUP: 1
+a c d f m p #SUP: 1
+o #SUP: 2
+m o #SUP: 1
+c m o #SUP: 1
+f m o #SUP: 1
+c f m o #SUP: 1
+a m o #SUP: 1
+a c m o #SUP: 1
+a f m o #SUP: 1
+a c f m o #SUP: 1
+b m o #SUP: 1
+b c m o #SUP: 1
+b f m o #SUP: 1
+b c f m o #SUP: 1
+a b m o #SUP: 1
+a b c m o #SUP: 1
+a b f m o #SUP: 1
+a b c f m o #SUP: 1
+l o #SUP: 1
+c l o #SUP: 1
+f l o #SUP: 1
+c f l o #SUP: 1
+a l o #SUP: 1
+a c l o #SUP: 1
+a f l o #SUP: 1
+a c f l o #SUP: 1
+b l o #SUP: 1
+b c l o #SUP: 1
+b f l o #SUP: 1
+b c f l o #SUP: 1
+a b l o #SUP: 1
+a b c l o #SUP: 1
+a b f l o #SUP: 1
+a b c f l o #SUP: 1
+l m o #SUP: 1
+c l m o #SUP: 1
+f l m o #SUP: 1
+c f l m o #SUP: 1
+a l m o #SUP: 1
+a c l m o #SUP: 1
+a f l m o #SUP: 1
+a c f l m o #SUP: 1
+b l m o #SUP: 1
+b c l m o #SUP: 1
+b f l m o #SUP: 1
+b c f l m o #SUP: 1
+a b l m o #SUP: 1
+a b c l m o #SUP: 1
+a b f l m o #SUP: 1
+a b c f l m o #SUP: 1
+c o #SUP: 1
+a o #SUP: 1
+a c o #SUP: 1
+a f o #SUP: 1
+a c f o #SUP: 1
+f o #SUP: 2
+c f o #SUP: 1
+b o #SUP: 2
+b c o #SUP: 1
+a b o #SUP: 1
+a b c o #SUP: 1
+a b f o #SUP: 1
+a b c f o #SUP: 1
+b f o #SUP: 2
+b c f o #SUP: 1
+l #SUP: 2
+l p #SUP: 1
+c l p #SUP: 1
+f l p #SUP: 1
+c f l p #SUP: 1
+a l p #SUP: 1
+a c l p #SUP: 1
+a f l p #SUP: 1
+a c f l p #SUP: 1
+l m p #SUP: 1
+c l m p #SUP: 1
+f l m p #SUP: 1
+c f l m p #SUP: 1
+a l m p #SUP: 1
+a c l m p #SUP: 1
+a f l m p #SUP: 1
+a c f l m p #SUP: 1
+b l #SUP: 1
+b c l #SUP: 1
+b f l #SUP: 1
+b c f l #SUP: 1
+a b l #SUP: 1
+a b c l #SUP: 1
+a b f l #SUP: 1
+a b c f l #SUP: 1
+l m #SUP: 2
+c l m #SUP: 2
+f l m #SUP: 2
+c f l m #SUP: 2
+a l m #SUP: 2
+a c l m #SUP: 2
+a f l m #SUP: 2
+a c f l m #SUP: 2
+b l m #SUP: 1
+b c l m #SUP: 1
+b f l m #SUP: 1
+b c f l m #SUP: 1
+a b l m #SUP: 1
+a b c l m #SUP: 1
+a b f l m #SUP: 1
+a b c f l m #SUP: 1
+f l #SUP: 2
+c f l #SUP: 2
+c l #SUP: 2
+a l #SUP: 2
+a c l #SUP: 2
+a f l #SUP: 2
+a c f l #SUP: 2
+p #SUP: 3
+b p #SUP: 1
+b c p #SUP: 1
+m p #SUP: 2
+c m p #SUP: 2
+f m p #SUP: 2
+c f m p #SUP: 2
+a m p #SUP: 2
+a c m p #SUP: 2
+a f m p #SUP: 2
+a c f m p #SUP: 2
+f p #SUP: 2
+c f p #SUP: 2
+a p #SUP: 2
+a c p #SUP: 2
+a f p #SUP: 2
+a c f p #SUP: 2
+c p #SUP: 3
+m #SUP: 3
+c m #SUP: 3
+f m #SUP: 3
+c f m #SUP: 3
+a m #SUP: 3
+a c m #SUP: 3
+a f m #SUP: 3
+a c f m #SUP: 3
+b m #SUP: 1
+b c m #SUP: 1
+b f m #SUP: 1
+b c f m #SUP: 1
+a b m #SUP: 1
+a b c m #SUP: 1
+a b f m #SUP: 1
+a b c f m #SUP: 1
+b #SUP: 3
+a b #SUP: 1
+a b c #SUP: 1
+a b f #SUP: 1
+a b c f #SUP: 1
+b f #SUP: 2
+b c f #SUP: 1
+b c #SUP: 2
+a #SUP: 3
+a c #SUP: 3
+a f #SUP: 3
+a c f #SUP: 3
+f #SUP: 4
+c f #SUP: 3
+c #SUP: 4
