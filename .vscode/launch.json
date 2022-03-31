@@ -8,7 +8,7 @@
             "name": "Python: Current File",
             "type": "python",
             "request": "launch",
-            "program": "Tema 4/Actividad1/split_dataset_iris.py",
+            "program": "Tema 4/Actividad1/calculate_growth_ratio.py",
             "console": "integratedTerminal",
             "justMyCode": true
         }
