@@ -1,17 +1,21 @@
-import os
 import pandas as pd
 
 if __name__ == "__main__":
 
-    less_equal_50 = open("Tema 4/Actividad1/<=50 rules.txt", "r")
-    more_50 = open("Tema 4/Actividad1/>50 rules.txt", "r")
-
-    len_less_50 = 24719
-    len_more_50 = 7841
+    # Leemos los patrones encontrados en ambos subconjuntos
+    less_equal_50 = open("<=50 rules.txt", "r")
+    more_50 = open(">50 rules.txt", "r")
 
     less_equal_50 = less_equal_50.read()
     more_50 = more_50.read()
 
+    # Almacenamos el tamaño de cada subconjunto
+    len_less_50 = 24719
+    len_more_50 = 7841
+
+    # Procesamos los ficheros y almacenamos sólo la regla junto con su
+    # soporte en ese subconjunto en modo de porcentaje
+    # (numero de ocurrencias (soporte) / tamaño de subconjunto)
     less_equal_50 = less_equal_50.split("\n")
     more_50 = more_50.split("\n")
 
@@ -59,16 +63,42 @@ if __name__ == "__main__":
 
     more_50["support"] = supports_more_50
 
+    # Growth ratio de <=50K sorbe >50K
     merged_data_on_less = pd.merge(less_equal_50, more_50, on=["rules"])
 
-    merged_data_on_less["growth_rate"] = (
+    merged_data_on_less["growth_ratio"] = (
         merged_data_on_less["support_y"] / merged_data_on_less["support_x"]
     )
 
+    # Growth ratio de >50K sorbe <=50K
     merged_data_on_more = pd.merge(more_50, less_equal_50, on=["rules"])
 
-    merged_data_on_more["growth_rate"] = (
+    merged_data_on_more["growth_ratio"] = (
         merged_data_on_more["support_y"] / merged_data_on_more["support_x"]
     )
 
-    merged_data_on_more
+    # Ordenamos por growth_ratio descendentemente resultados
+    merged_data_on_more = merged_data_on_more.sort_values(
+        "growth_ratio", ascending=False
+    )
+    merged_data_on_less = merged_data_on_less.sort_values(
+        "growth_ratio", ascending=False
+    )
+
+    merged_data_on_more.columns = [
+        "rules",
+        "support_>50K",
+        "support_<=50K",
+        "growth_ratio",
+    ]
+
+    merged_data_on_less.columns = [
+        "rules",
+        "support_<=50K",
+        "support_>50K",
+        "growth_ratio",
+    ]
+
+    # Imprimimmos los growth ratios obtenidos
+    print(merged_data_on_more)
+    print(merged_data_on_less)
